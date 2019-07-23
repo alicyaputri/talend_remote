@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_pibpsa0UEem84e9FQHLPBA" label="project_pertama" description="" language="java" technicalLabel="PROJECT_PERTAMA" creationDate="2019-07-23T13:27:49.000+0700" author="_pibpsq0UEem84e9FQHLPBA" productVersion="Talend Big Data Platform-7.1.1.20181026_1147" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/alicyaputri/talend_remote&quot;,&quot;login&quot;:&quot;alicyaputri.ap@gmail.com&quot;,&quot;passwd&quot;:&quot;8bjFAE4iYG23Qvvu/aaJGtchqZW21raM&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DI">
+    <migrationTask xmi:id="_qC8VwK0UEem84e9FQHLPBA" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
+  </TalendProperties:Project>
+  <TalendProperties:User xmi:id="_pibpsq0UEem84e9FQHLPBA" login="alicyaputri.ap@gmail.com" firstName="alicya" lastName="putri" type="DQ" additionnalData="{}"/>
+</xmi:XMI>
